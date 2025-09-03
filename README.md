@@ -98,13 +98,14 @@
 
 После запуска анализа в папке `results/figures/` появятся графики:
 
-- **time_series.png** - временные ряды ключевых показателей
-- **distributions.png** - распределение переменных
-- **correlation_matrix.png** - матрица корреляций
-- **clustering_results.png** - кластеризация режимов работы
-- **anomaly_by_clusters.png** - распределение аномалий по кластерам
-
-Результаты также доступны в Jupyter Notebook (в ячейках с графиками) и в отчете `results/analysis_report.md`.
+- временные ряды ключевых показателей
+<img width="4456" height="5366" alt="eda_time_series (1)" src="https://github.com/user-attachments/assets/feddb42d-ac61-499f-b661-3cec1eddb7ce" />
+- распределение переменных
+<img width="4470" height="3570" alt="eda_distributions (1)" src="https://github.com/user-attachments/assets/0e3e7cec-8fa9-4dcb-83eb-403acbf69857" />
+- матрица корреляций
+<img width="4474" height="4162" alt="correlation_matrix (1)" src="https://github.com/user-attachments/assets/74b71aac-4aab-441f-b8e5-75c4dcb51311" />
+- lstm 
+<img width="3571" height="1466" alt="lstm_results" src="https://github.com/user-attachments/assets/76548d52-082e-41e5-9f25-e598548d36b7" />
 
 ## 📊 Основные выводы
 
